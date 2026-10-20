@@ -12,6 +12,8 @@ Iniciar o server: go run cmd/grpcServer/main.go
 
 -> Do lado do Evans (outro terminal):
 
+Baixar e instalar por aqui: https://github.com/ktr0731/evans
+
 Em outro terminal, abrir o evans: evans -r repl
 
 Conectar ao pacote: package pb
